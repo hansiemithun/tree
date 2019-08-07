@@ -1,0 +1,23 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-sycscg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansiemithun/tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansiemithun/tree/issues"
+  },
+  "homepage": "https://github.com/hansiemithun/tree#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
